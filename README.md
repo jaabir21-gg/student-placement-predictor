@@ -5,15 +5,15 @@ An end-to-end Machine Learning web application designed to evaluate a student's 
 ---
 
 ## 👤 Student Profile
-* **Name:** Anish Bhattacharjee
-* **Registration Number:** 23BAI10736
+* **Name:** Md Jaabir Islam
+* **Registration Number:** 23BHI10150
 * **Course:** B.Tech Computer Science and Engineering
 * **Institution:** VIT Bhopal University
 
 ---
 
 ## 🔗 Live Application Gateways
-* **Production Live URL:** https://student-placment-predictor.onrender.com
+* **Production Live URL:** https://student-placement-predictor-chi.vercel.app/
 * **Source Repository:** https://github.com/anish-hlv/Student_Placment-Predictor.git
 
 ---
