@@ -14,7 +14,7 @@ An end-to-end Machine Learning web application designed to evaluate a student's 
 
 ## 🔗 Live Application Gateways
 * **Production Live URL:** https://student-placement-predictor-chi.vercel.app/
-* **Source Repository:** https://github.com/anish-hlv/Student_Placment-Predictor.git
+* **Source Repository:** https://github.com/jaabir21-gg/student-placement-predictor
 
 ---
 
